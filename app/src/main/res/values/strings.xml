@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="db_url">https://simple-login-2fc9f-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
+</resources>

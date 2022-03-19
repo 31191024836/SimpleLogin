@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801815239199",
+    "project_id": "userdata-8b924",
+    "storage_bucket": "userdata-8b924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801815239199:android:8264b1d9252b131974d32a",
+        "android_client_info": {
+          "package_name": "kieumy.example.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801815239199-g7njqg0eune8nkhmkkb0suiup1662503.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLYgBwqQVJRFIEZ7fmlFoNGzXGPgFJaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801815239199-g7njqg0eune8nkhmkkb0suiup1662503.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
